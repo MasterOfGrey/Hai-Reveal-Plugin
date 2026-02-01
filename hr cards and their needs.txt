@@ -1,0 +1,237 @@
+Key Points to always return to:
+
+ - Why do you assert <reason>?
+ - If something is to be removed - what is *gained* by removing/restricting it?
+ - What does an alternative bring that is not brought by the existing plot?
+
+
+
+"Imagine a deck of cards with each card having an idea or concept or plot point on it. We can then construct a story by playing these cards. So what does Hai Reveal's deck look like?"
+
+* Are cards Derpy flagged for removal.
+
+Background Cards:
+- The kidnappings.
+- *The villain being beyond normal reach.
+- *The inclusion of the Korath.
+
+Plot Cards:
+
+- Teeneep finding a pattern in the kidnappings that the Hai government does not see or believe.
+- *The hyperspace lore.
+
+- Pirate Cards:
+  - The Berserker pilot during the prologue.
+  - The Black Lich. 
+  - The Pirate Troubles arc.
+  - The Siege of Stormhold.
+
+
+- The cards for Elenchus:
+
+Outcome cards:
+- Improved relationship between the Hai and Unfettered.
+- The political shakeup that occurs in the Hai government.
+
+
+
+Issues re Card Removal:
+
+- "The villain being beyond normal reach" is an essential card, at least in some form.
+	- Even if that reach is only beyond the reach of the Hai (including Hai intelligence operatives, assassins, political agents, or hired guns). Otherwise it would all be resolved without the player.
+		- So it has to be beyond the reach of the Hai (and all possible agents of the Hai).
+
+- Elenchus is not a card on its own. The whole point is that there's a pirate/smuggler/unsavoury organisation behind things, operating from somewhere (Elenchus) that is beyond normal reach of the Hai.
+	-> Elenchus is the card that answers the question of How [pirate card] and [beyond normal reach] cards interact. If we’re borrowing cards terms; it completes the straight flush.
+		- So it’s not actually a move away from the pirates, not really.
+	- I see the issue that Elenchus being what it is then necessitates the additional card of:
+		- "how and why does this exist separately"
+			- Which is what pulls in Terry and the Syndicate infiltration.
+			- So that’s a sizeable hand of cards to draw from it.
+				- If you take Terry out though then you’ve gotta answer the question of why the Hai gov (if they could trace something to human space at least) couldn’t pressure human govs to look into it, since no authority in the Syndicate would have reason to provide any interference to that process.
+				- And at that point we’re unpicking most of the story…
+					- (Because if Humans could reach it normally when Hai couldn’t, we circle back around to agents of the Hai [diplomatically leveraging the Republic in this case] being able to do something, and negating the need for the player.)
+
+- The hyperspace lore only exists insofar that it satisfies the beyond normal reach requirement, but it's also self-justified in itself:
+	- It intrinsically plays on the nature of corporate and government safety regulations coupled with centralized long term information storage.
+	- There *are* links out there that fall outside the bounds of what mass produced (and poorly understood) HDs *will* access, but which those same HDs *can* access if safety settings are circumvented, and information on that was just never preserved/advertised, because it’s not safe OR profitable from a corporate or government perspective.
+		- Also; we already rely on hidden and new systems for advancing plots and missions, so any lore that justifies its usage in a specific aspect should be acceptable as long as it makes sense within the presented context in-universe. Simply rejecting the use of hidden systems because someone *feels* a certain lore angle doesn’t itself work is deeply unreasonable;
+			- an actual objection over the lore itself should come with changes or alternatives that would *allow* the lore to work.
+	- ALTERNATIVE: Use #8621 to have an outfit that the smugglers use to control access to the system.
+	- ALTERNATIVE: Also, some people really like the deep space systems, but we could remove them and have Elenchus be directly in the hidden system - but it's still gotta be hidden.
+
+- The inclusion of the Korath.
+	- It is the Korath amongst them which allow the kidnappers to have a technological edge, combined with hai tech.
+		- And that technological edge justifies the whole conspiracy in it's modern form.
+			- Without it, there's really just no reason at all for Terry (the Syndicate lady) to participate in the kidnappings or interact at all with the pirate group there.
+			- Because hai tech they can get their hands on relatively easily - in fact that's likely how they got into this whole business in the first place, breadcrumbs followed from illicitly acquiring Hai tech.
+	- Additionally, it's an alternative glimpse into Korath society/culture as a parallel to the other work on the Korath. Their inclusion on Elenchus helps highlight the short generation time -and- the consequences of being separated from a larger group’s passed on knowledge and mores.
+		- It’s also a good counterpoint to pirate campaign play -and- the earlier pirate work in HR… another example of how oppressive societies carry on momentum through changing leadership… so simple top down displacement is not effective, like in violent resolutions to Scar’s Legion (which is already lightly addressed there by current leader not being “Scar”).
+
+
+
+
+- KEY CONCLUDING/Reference POINT
+	- Ultimately, the story needs to have a reason for the player to be involved.
+		- The political situation could *already* be resolved, eventually, without the player's involvement.
+			- This is, to some degree, the point. The player is a small but significant part in it. They affect the specific nature of the outcome, but not the broad strokes of it.
+		- The player's significance is a direct result of:
+			- Being reasonably famous.
+			- Having trust with and access to high-ranking people in a human government.
+			- Having access to jump drives.
+			- Being competent enough to travel effectively wherever they need to.
+		- If the story does not use anything that leans on these points of significance, then the player's involvement is not really significant.
+			- If we take out the only thing that makes the player's involvement significant, then there's no reason for the player to be there at all.
+			- Especially, since the three most significant governments involved all have competent intelligence agencies.
+
+
+
+
+
+Alternate Proposed Cards:
+- Suppose we have a rather ambitious warlord who's had a taste of Hai technology before. This warlord has raided Hai space a few times, but thinks that there might be a better way of going about things.
+- The warlord thinks it might be a better idea to produce it. And who better to produce it than the Hai themselves?
+- So this warlord fancies the idea of kidnapping Hai. Not just any Hai, but specifically the Hai who are capable of building and developing the technology that the pirates crave.
+- This warlord may have gotten this idea decades ago. It might even be that the warlord is dead, but the successor has continued the kidnappings.
+- This warlord could then be located deep within pirate territory.
+
+	Note here:
+	- The current story doesn't actually change from the Pirate card being played.
+		- There's the established argument that many other worlds that are pirate dominated, are not in fact pirate *worlds*, but simply worlds exploited by coordinated pirate activities.
+		- This is exactly what Elenchus is, it's just another world, exploited by coordinated pirate activities.
+		- The "pirates" in this case, even come from a very distinctly known "pirate" world (though it's part of the anarchist group) - a world known for treading a fine line when it comes to dealing with pirates.
+			- The group exploiting Elenchus this time simply explores an often under-looked-at element of existing pirate lore; that of competing anti-Republic interests.
+			
+	Counterissue:
+	- The Warlord alternative is, in effect, just moving the entire timeline up, meaning you loose out on -all- elements of adjustment over time.
+		- Including the evidence of Hai government complicity (which is necessary to motivate such drastic government change with its reveal), the alternate Korath culture glimpse, and even the tension between Hai and Human governance (since instead of a long term problem complicated by a new boiling point you have simply a joint emergency - at which point the secrecy break itself becomes a stretch because there’s no reason to investigate it being upheld over time).
+	- The Warlord is also, already, effectively a character in Hurl's stuff - some guy called Midas who's essentially the warlord you're describing, albeit light on the kidnapping front.
+	
+
+
+Side issues:
+- The idea of expanding pirate territories has been discussed for some time, so perhaps we piggy back off of your Core system changes and add expanded pirate territories in the Core and Far North.
+	- Removal of the hidden nature of the systems, and in fact, any real introduction of other pirate systems, undermines not just HR's current plot, but -all- expanded pirate plans.
+		- The pirate group have been expanding the pirates progressively with their plans, and those expansions are incompatible with expanding new locations that would be suitable for alternative pirate-centric ideas propose so far.
+
+- "We should not have this storyline going off into never before seen systems whose existence is justified by never before discussed lore"
+	- Re "It doesn't bring anything to the story" - setting aside it being debatable, what is gained by restricting the story from doing so?
+		- There is no neutral position here, each must stand on its own merits.
+	- Any story that needs new territory to be told has to deal with either:
+		a) expanding outwards, or 
+		b) expanding inwards.
+			- You need space to expand outwards, and if you use more than ~1 system, you need lore and/or wormholes to expand inwards.
+			- Also, isn't it a bit silly to present “going somewhere else that [the player has] never been before” as overdone or negative element *in a space exploration game*?
+
+
+
+Interpretation Issues:
+- On the nature of "The Villain":
+	- Part of the point of the story, is that there is no definitive villain. "The villain" is ultimately a matter of perspective - and leans on where the player stands w.r.t both:
+		- the objectives being pursued by each party, and
+		- the statement "the ends justify the means".
+	- Casting the enslaved population of Elenchus as the villain completely misses the point, and also overlooks that the on-and-off conspiracy exists where humans don’t look and where Hai won’t.
+		- This is how we reach the expectation that it falls apart under scrutiny by someone able to operate in both areas… it is not at all the continuous or “air-tight” thing he claims it should be.
+
+- On the nature of Elenchus:
+	- It's been suggested that it might be difficult to keep 3 disparate groups together for as long as it's been around.
+		- This neglects that it's actually just mostly 2 disparate groups (in the several thousands each) and like 100 korath refugees.
+		- Also, slavery. It's not hard to keep a group together when there's a constant supply of outside forces coming into to impose their will from outside.
+
+
+
+
+
+
+
+Derpy's recollection of what needs to be kept:
+This maintains the required plot points we discussed last time of there needing to be:
+- Some conspiracy which targets specific Hai over the course of an extended period of time. 
+
+Perception:
+This also creates a progression to the pirate involvement that we see.
+- First we have the lone Berserker, causing no trouble.
+- Next we have the Black Lich, a single pirate fleet swooping in to kidnap Hai in broad daylight.
+- Then we have Scar's Legion, a more organized group that has had past engagements with the Hai.
+
+	Perhaps during all of this, you get the rumblings of someone bigger working in the shadows. Who was that lone Berserker with? How did Scar's Legion go from a petty gang in the Far North to building an entire asteroid base? Did they have help? Were the Black Lich's kidnappings random, or were they ordered by someone higher up? Or could they have been a cheap imitation?
+	
+	Extra cards:
+	- Perhaps you find a group of pirates hiding away in one of the abandoned Hai stations, suggesting that someone has eyes within Hai space.
+	- Perhaps in your investigations of the kidnappings and returning Hai back to Hai space, the Hai you rescue speak about how they were sold off between different groups of pirates, but how there seemed to be one group looking for specific types of Hai.
+	- Perhaps you speak with members and leaders of pirate gangs to determine who has the most Hai technology on their hands, and where they got it.
+	- Perhaps there's a single warlord who seems to have the most, yet no one knows where it comes from.
+		- Maybe this warlord even has technology that no one else has ever seen in Hai space, the result of technological experiments that the kidnapped Hai are doing at the behest of the warlord (and an opportunity for us to create new goodies).
+
+"All that, and all we did was play the same pirate card that we were already playing."
+
+Re the extra cards;
+- I like all of those, and think we should just outright put them as goals for inclusion further side strings and optional extras - in later PRs after the "final" state of HR as a main story.
+	- BUT the only one anywhere near appropriate for inclusion before it being a finished narrative would be the "pirates on abandoned Hai stations," because that would be an interesting way to both parallel Hai returning them to usage in light of new threats and to explore gaps in Hai surveillance where it just hasn't been necessary in their own dynamics.
+		- Excluding the "warlord with advanced goodies" which at present has no place except to try and be a poor replacement for a plot driver.
+			- ...but it could also feed into the pirate/UHai stuff around some of them working for or against competing pirate groups.
+
+
+
+
+
+
+
+
+Overall DEVELOPMENT PROCESS Notes:
+- None of these suggestions would have been out of line THREE YEARS AGO, when the different directions could have been written that way in the first place, but *as replacements* they very much are now that that’s just not the way the story has been written.
+- And nothing so far suggesting is actually justified with reasoning for why it’s better than what’s already written -OR- a reason that what is already written is intrinsically bad either on its own or in greater context of the rest of the game.
+- At this point, simply being a personally preferred alternative is not just inadequate as an explanation, it’s deeply insulting and disrespectful to hundreds of hours each from upwards of a dozen people.
+- This isn’t a job where we got paid for that time anytime, which is the only reason why it’s okay for similar complete rewrites and last minute overhauls in the -professional- industry.
+
+
+
+
+
+
+With the Essays Below:
+	- With the essays at the end, I think it may be important to note for emphasis that the smuggler arc is what *takes* the player from a background character watching this unfold to the main driving force that can resolve it *specifically because* they were there for the ride as a background character as it continued to unfold and escalate.
+	- By the time the smuggler missions happen, it would require obtuse justification for anyone else to be doing the things the player is expected to at this point. Not just politically or logistically, but *narratively* too.
+
+Old Smuggler PR Essays:
+- UnorderedSigh:
+	- Re the significance of the smugglers to Hai/Human relations:
+	The entire purpose of 5 & 6, and the later part of 4, is to explore the growing connection between the humans, Unfettered, and Fettered, by presenting a common problem that they had to solve together and forging a relationship in the process. It could have degraded into a warfare, but it didn't, because Captain Last helped leaders like Teeneep, Alondo, Remington, and Choot'k understand each other's civilizations. None of the three groups had the technology, experience, or resources to tackle it on their own. They had to unite and create a relationship to solve it. This trial by fire is how and why the human and Hai relationship came to be. By putting the player in the middle of it, and having them drive the story, it becomes more real because Captain Last forges the Hai-human relationship, instead of just reading about it.
+	
+	Elenchus and the Whispering Void, an unsettling region of space filled with unknown threats, is critical to this, as the player is delving into unfamiliar territory, just like the Hai and humans relations. Captain Last is feeling the fear and uncertainty that people are, all over Hai and human space, confronting a new era of two species united. As the Captain progresses further, seeing the miracles and wonder beyond this terrifying frontier, this gives them the same feeling that the Hai and humans have after sharing cultures, goods, and experiences.
+	
+	You could replace this with a mile of dry text that "explores" the relationship between humans and Hai without creating one in the first place, but the story would be weaker. This was painstaking work of several people over the course of two and a half years to establish and demonstrate that relationship, and build the lore behind it. Replacing it with the work of two weeks to explore a relationship that wouldn't exist, will not give you a better result. Having a deep story with creative settings isn't necessarily a bad thing. Letting the player forge the Hai-human relationship is a more powerful story than having them read about it.
+
+- NomadicVolcano:
+	- Re the Smuggler arc (cont.):
+	The smuggler story arc is the most critical moment of player engagement in all of Hai Reveal. This is the moment when nobody in the galaxy except Captain Last can provide a path to peace (G: that *also* satisfies the mystery). It changes the story of forging a Hai-human relationship from merely being facilitated by Captain Last, to being impossible without the Captain.
+	
+	The normally passive Fettered Hai were so upset by the kidnappings that they elected the youngest "Elder" in 10,000 years, sparked an election in weeks that replaced a third of the Elder Council, compared Teeneep to a messiah from the Mythos (that's new!), and considered allying with the Unfettered in war against the humans. A few Hai know Sayari's details about the kidnapping operation, and are terrified of the explosive consequences of letting it out. Fleets on either side of the wormhole have guns pointed at each other with fingers on the trigger. The leaders know that more stories of Hai abuse will lead to war.
+	
+	It is impossible to achieve peace until the 5000 Hai are found (G: or conclusively *not* found), and that can't be done until Captain Last boards kidnapping vessels, causing Hai to die, in a quest to get information. Nobody can do that except Captain Last. If the human governments do it, they risk sparking a war by directly killing Hai. The Hai can't do it without sparking a war by sending warships deep into human space. Ordinary mercenaries and bounty hunters can't be trusted with something so sensitive. I don't think I need to mention the Syndicate. Literally, the fates of two entire species are riding on Captain Last using the smugglers to finding Devil-Run without any other help.
+	
+	If you remove this, Captain Last is no longer the hero of the story; they're just a minor character along for the ride. You must understand what you're changing, and how it links together, before you rewrite a deep and intricate interactive story. Otherwise, a few weeks of work will just look like... a few weeks of work.
+
+
+- UnorderedSigh:
+	- Re the threat of war being "contrived":
+	No, eternal stability of the Hai during rising internal and external problems is contrived; Hai Reveal 3 & 4 replaced that with a more realistic scenario: when everyone's problems get too large, and a traumatic event is shoved into everyone's faces, populists can take over and send things into unstable directions. Sometimes they improve society, and sometimes they don't, depending on where the chaotic situation leads. This has happened over and over throughout human history. There's no reason why Hai would be immune; just look at their violent imperialist history and Unfettered brethren.
+	
+	The Hai nearly went to war with humans - or, to be more precise, the Unfettered on their behalf - because Teeneep and her passionate movement stirred them up into a fury. The reason it was so easy to stir them up is that that people were fed up with their impotent Elders who have been ignoring the Hai troubles for centuries in favor of secrecy and stability. The Hai have been suffering from a toxic stagnation for a long time. It led to income disparities, unchecked pirate troubles, inability to help humans with their own problems, threats to Hai in human space, alienating a large segment of their population (the Unfettered), among other problems. Each segment of the population had their own grievances, and it built up to a dangerous level.
+	
+	People have been getting increasingly upset, and the pirate troubles that started after the Pug War were the flash point. Teeneep and Choot'k, being populists, seized the opportunity to grab power and fix the problems. Teeneep's ease into power was made possible largely because other Elders and high-ranking Hai had been pushing for change for a very long time. (Especially Sayari and Aimet Taepip.) The same wave that brought Teeneep into power also changed the balance of power in the Elder Council, allowing progress for the first time in, perhaps, millennia. Ultimately, war did not happen because leaders on both sides ensured it didn't, and they had Captain Last to help them along.
+	
+	Put simply: the childish dichotomy of the utopian and dystopian Hai factions is gone. Hai have a deeper story, a real personality, well-developed lore, and the actions of their population are based on how actual populations evolve. If you remove the conflict from the story, you're just left with words on a page. If the Hai are fat happy squirrels with no personality and always get along, then there won't be a meaningful Hai story.
+
+
+
+
+
+
+
+
+
+
+
+
+

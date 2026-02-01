@@ -1,0 +1,34 @@
+Development plan - this was the version I actually liked. (Refer to notes for any missing context.)
+
+#####################################
+
+Changes with respect to the basic suggestion:
+```
+(basic suggestion was was:)
+Story:
+1) Hai Reveal parts 1-4 and early part 5 are not changed.
+2) Smugglers arc happens where the goal is to eventually acquire what is essentially a map and decryption key.
+3) Scout out the system and actually find the planet, similarly well-defended as now.
+4) Get the Unfettered - a multitude of reasons can be applied here, but as it stands they're already invested politically, so techno-justification is not required.
+5) Capture the station.
+6) Hai are embarrassed that they were so angry about a kidnapping spree that their own people started.
+7) Resolution is as current Hai Reveal Part 6.
+```
+This even newer alternative version would work such that after you get to Stormhold it continues differently:
+1) Giti identifies that there's text in one of the images (as now), which uses uncommon text (as now), which she translates to standard text that is complete gibberish. She notes it is structured as if it is using a cipher that she cannot decode (new). [Optional: She still gives you the data for the Lovelace guy on the communications angle.]
+2) (New) You take that information *and* the cipher text back to Teeneep who has no idea but shares it with Sayari who recognises that one particular piece of it, if you converted to Hai pronunciation, is consistent with a UHai code. Teeneep then wants to take this to Choot'k. [Optional: Sayari advocates for not revealing the investigation to the UHai yet - you get a choice of going to UHai or following up the data with the Lovelace guy.]
+3) (New - Primary plotline) You go to Chot'k, he has an agent translate it and identifies the system and direction to look given by that code. From star charts this ID's the Gemingah system (which has no apparent hyperlane connection) as the destination. You are sent with a UHai agent on your ship to investigate.
+4) (New) You get there and find out that your scanners can't ID anything useful. System seems barren, but you get the occasional sensor ghost that implies *something* is out there. So you are directed to camp out in the system the directions started from and raid any ship that arrives from the direction of Gemingah to find out more.
+5) (New) You acquire a modified scanner and land to install it. Now when you revisit Gemingah, you "land" (closely orbit) the star and run a sweep that lets you spot "Elenchus" which was concealed by various means. You also realise from here that you can detect the hyperlane leaving Gemingah.
+6) (New) The UHai agent patches the scanner into your navigation system and then, after returning to the originating system again, you identify how they've been getting in and out without a jump drive.
+7) You return to Stormhold and discover that human scanners cannot be easily upgraded to have the level of sensor discrimination required - but the UHai's value scanners can be trivially reconfigured. - The size of the fleet is determined by the number of UHai scanners immediately available, and the invasion occurs as before.
+
+This involves the UHai more heavily and also negates 90% of the smuggler chasing.
+
+[Optional Alternative]
+3) You don't trust Choot'k (new), and instead go to Goraz for the Lovelace data connection (as now). Agent Kopkow is waiting for you at your ship, having got to Giti in the meantime - you are required to allow him to accompany you (new.)
+4) Knowing which system to look in you go directly there and board a smuggler that you can identify with what Goraz gave you. (new spin on as now)
+5) & 6) Continue as above but with Kopkow as the agent on board.
+7) Drop Kopkow off and return to Stormhold (as above) to learn all the same things but different conversation (new). Proceed to invasion as before.
+
+6) & 7) from the original are now 8) & 9) of this one for either path. (More specific changes for this required more detail to explain.)

@@ -1,0 +1,161 @@
+Development notes (on the various last proposed alternatives) from discord:
+
+#####################################
+ —> 30/10/2023 10:25
+So @Developer, after yesterday's discussion may not have achieved a great deal, but it did narrow down on the concerns at least a little bit.
+Namely, the understanding extracted from that was:
+- no Korath (despite the reasoning for the value of their inclusion)
+- no hidden systems
+Additionally, you did raise an interesting point about a planet that simply does not show as anything more than a sprite, until conditions are met.
+
+Based on that, the ThinkTank™? of people less exhausted by this than I, devised some possible alternatives to meet those requirements without unpicking the entire thing...
+
+__**Re "No Korath":**__
+The Korath simply presented the least contrived justification for some elements, but these are proposed alternatives:
+
+Option 1:
+- 1) Kidnappers needed a foolproof way to hide people. Elenchus scientists created material that confuses scanners.
+- 2) New boxes with the scan-confuser material have an intentional flaw:
+ - a) (larger re-write) The flaw that allows small bits of insulation to break off. This is a flaw at the seal of the crate's door; the door clips the insulation edge and pieces break off like asbestos fibers. They go everywhere and are detectable.
+ - b) (smaller re-write) The flaw that allows small bits of insulation to break off like asbestos fibers. These are inhaled by the inhabitants and leads to Cadmium poisoning as in the current version.
+
+Option 2:
+- 1) Strange sensor readings come from strange devices on the Kidnappers' ships. These are the devices that let them see the planet that they operate from.
+ - This goes back to having to chase smugglers. You'd need to Grab at least two to facilitate the plot.
+
+__**Re "Hidden Systems/Wormholes":**__
+
+Alteration to the Back-story:
+1) During the Korath raids a number of Hai dissidents took a captured Korath ship and left to make their own way. To support this effort they press-ganged a number of Hai with useful skills into helping them and installed a system of holographic projectors to make the ship look like an asteroid for escape/stealth purposes.
+2) This group eventually made it's way to Freedom, where an eventually botched reltionship led to an anarchist faction taking over the ship and operation. This radical group had no compunctions about enslaving necessary skills (and aliens) to advance their goals. With Hai knowledge of ideal kidnapping victims and Hai society, they went on the original kidnapping spree.
+3) At length, they couldn't maintain the ship's aging systems for long, so they scoured the ship's database for ideas before discovering that a ship could hover near Geminga, beyond the reach of Hai or human sensors, if one knows safe routes and has suitable sensors.
+4) Hide there and set up.
+5) Many years pass.
+
+For this purpose, Geminga would be a neutron star nova system on the edge, or just inside, of Syndicate space.
+It would always be visible from the start of the game. It could either be jump drive only or accessible by a hyperdrive link that's hard to find. (So the system is always there, but it's not readily accessible to your average civilian.)
+## POST-NOTE: Geminga was pictured roughly between Almach and Gamma Cassiopeia on the Syndicate-Ember Waste border.
+
+Story:
+1) Hai Reveal parts 1-4 and early part 5 are not changed.
+2) Smugglers arc happens where the goal is to eventually acquire what is essentially a map and decryption key.
+3) Scout out the system and actually find the planet, similarly well-defended as now.
+4) Get the Unfettered - a multitude of reasons can be applied here, but as it stands they're already invested politically, so techno-justification is not required.
+5) Capture the station.
+6) Hai are embarrassed that they were so angry about a kidnapping spree that *their own people started*.
+7) Resolution is as current Hai Reveal Part 6.
+
+One proposal for the narrative would be that Geminga has a nasty system hazard from the gamma rays, the other is that they're simply masking the presence of anyone in the system - either way the goal is to get the information on how to find what you need in there.
+- Option A: It would have a planet in it that appears to be nothing at all and totally uninhabited. (This is the Elenchus replacement.)
+ - This would utilise the idea of a planet that simply does not show as anything more than a sprite, until conditions are met.
+- Option B: It is now a space station, not a planet, which is completely concealed from passers-by by a combination of holographic trickery and the gamma ray and other interference from the neutron star.
+ - This would simply add the station to the system at the appropriate time.
+
+The following points would be achieved by this:
+- Reduction in overall geographic scope.
+- Slight reduction in narrative elements.
+- No hidden systems.
+- The Hai's sudden de-escalation has direct cause and relies less on Teeneep's personal political motivations.
+- Closer tie-in to the political situation.
+- Still explores a little bit more of the anarchist side of the pirate factions.
+
+Proposed Location:
+(map was shown, see previous POST_NOTE)
+
+#####################################
+RE "It might be better to take place in an existing system"
+ —> 30/10/2023 10:43
+That was something originally part of the Dev’s suggestion, and we spent two hours going through all the ways that doesn’t work. 
+We didn’t fully agree on all of those points - but it doesn’t work if even one of the points is valid, so I and others have rejected the idea that it can be in an existing system that’s readily accessible. 
+(Most certainly, it cannot be in or adjacent to any northern pirates systems. Period.)
+It could technically be in a Syndicate system, but that would imply that the Syndicate is less competent than even I’m willing to suggest.
+
+#####################################
+ —> 30/10/2023 10:54
+It needs to be beyond the reach of the Hai and all reasonable agents of the Hai. Which includes but is not strictly limited to:
+- Hai Secret Service
+- Human mercenaries with standard capabilities
+- Pirate informants
+
+Further, it can only be in/near Syndicate space because Terry and her infiltration into the Syndicate presents a justification for why:
+- any leads that the Hai might ask the Republic to look into could be confounded 
+- the Syndicates own eyes could be averted
+
+We spent a good while unpacking that, so I won’t re-tread it more than that.
+
+## POST-NOTE: A Significant discussion occurred with Derpy here circa 2/11/2023
+## - See: "hr cards and their needs.txt" <- warning: this is not a particularly structured document 
+
+#####################################
+ —> 14/11/2023 14:58
+@Derpy Horse (Amazinite) even more refined version of this that:
+- almost entirely removes the smuggler chasing,
+- further shortens it, and
+- gives the option of focusing on the player's relationship with the UHai to a greater extent.
+Coming soon.
+
+Works best with Option B where "Elenchus" is a station. Achieves the same points as the above.
+
+Would be good if we could get a "yay" or "nay" as to whether any of it is headed in an acceptable direction though.
+
+#####################################
+ —> 17/11/2023 10:55
+OK, @Developer so to contrast with the previous suggestion which was:
+```
+Story:
+1) Hai Reveal parts 1-4 and early part 5 are not changed.
+2) Smugglers arc happens where the goal is to eventually acquire what is essentially a map and decryption key.
+3) Scout out the system and actually find the planet, similarly well-defended as now.
+4) Get the Unfettered - a multitude of reasons can be applied here, but as it stands they're already invested politically, so techno-justification is not required.
+5) Capture the station.
+6) Hai are embarrassed that they were so angry about a kidnapping spree that their own people started.
+7) Resolution is as current Hai Reveal Part 6.
+```
+This even newer alternative version would work such that after you get to Stormhold it continues differently:
+1) Giti identifies that there's text in one of the images (as now), which uses uncommon text (as now), which she translates to standard text that is complete gibberish. She notes it is structured as if it is using a cipher that she cannot decode (new). [Optional: She still gives you the data for the Lovelace guy on the communications angle.]
+2) (New) You take that information *and* the cipher text back to Teeneep who has no idea but shares it with Sayari who recognises that one particular piece of it, if you converted to Hai pronunciation, is consistent with a UHai code. Teeneep then wants to take this to Choot'k. [Optional: Sayari advocates for not revealing the investigation to the UHai yet - you get a choice of going to UHai or following up the data with the Lovelace guy.]
+3) (New - Primary plotline) You go to Chot'k, he has an agent translate it and identifies the system and direction to look given by that code. From star charts this ID's the Gemingah system (which has no apparent hyperlane connection) as the destination. You are sent with a UHai agent on your ship to investigate.
+4) (New) You get there and find out that your scanners can't ID anything useful. System seems barren, but you get the occasional sensor ghost that implies *something* is out there. So you are directed to camp out in the system the directions started from and raid any ship that arrives from the direction of Gemingah to find out more.
+5) (New) You acquire a modified scanner and land to install it. Now when you revisit Gemingah, you "land" (closely orbit) the star and run a sweep that lets you spot "Elenchus" which was concealed by various means. You also realise from here that you can detect the hyperlane leaving Gemingah.
+6) (New) The UHai agent patches the scanner into your navigation system and then, after returning to the originating system again, you identify how they've been getting in and out without a jump drive.
+7) You return to Stormhold and discover that human scanners cannot be easily upgraded to have the level of sensor discrimination required - but the UHai's value scanners can be trivially reconfigured. - The size of the fleet is determined by the number of UHai scanners immediately available, and the invasion occurs as before.
+
+This involves the UHai more heavily and also negates 90% of the smuggler chasing.
+
+[Optional Alternative]
+3) You don't trust Choot'k (new), and instead go to Goraz for the Lovelace data connection (as now). Agent Kopkow is waiting for you at your ship, having got to Giti in the meantime - you are required to allow him to accompany you (new.)
+4) Knowing which system to look in you go directly there and board a smuggler that you can identify with what Goraz gave you. (new spin on as now)
+5) & 6) Continue as above but with Kopkow as the agent on board.
+7) Drop Kopkow off and return to Stormhold (as above) to learn all the same things but different conversation (new). Proceed to invasion as before.
+
+6) & 7) from the original are now 8) & 9) of this one for either path. (More specific changes for this required more detail to explain.)
+
+Hopefully you can comment as to whether this is getting somewhere after the dev chat?
+## POST-NOTE: The Devs took over a year to comment on this. I thought it was de facto abandoned.
+
+#####################################
+# SAUGIA  —> 30/03/2025 09:28
+After extensive discussions and review over the last year, we've gathered our thoughts on how Hai Reveal will be implemented going forward. In this document are the main takeaways and changes necessary to work it into the game's existing scope. You'll note that there are still comments floating so there still many be some directions we can look at taking. In general, this is how the dev team sees the story going, not a "maybe" approach. Feedback is welcome of course, and things can be tweaked, but this should be considered the basis for the content.
+
+I have enabled comments, but *please* be concise with your comments/don't post a bunch of them in a row/smaller ones. Everyone here will have access to it and it would be best that things are kept straightforward. Comments can also be done here in <#323990864890298368> as well. Please note that being shared in this channel means confidentiality rules apply - do not share it outside of this channel or with those outside of the channel unless we make a decision to share it otherwise.
+
+Also note that it might be a minute for us to reply to comments, as we're working on many things at once. Or perhaps we have a chat together later on. We'll see how things go.
+
+https://docs.google.com/document/d/1nu1o4VhwA4I7Nx-k3zLJmLS-S4sGD9pmeWU2Oku-Xbk/edit?usp=sharing
+
+#####################################
+ —> 04/04/2025 11:13
+I found some time to have a bit of a look, and really at this point if you're going to do things like completely reform the Syndicate and how it's presented in-game, then a lot of these changes make sense in that context.
+
+I will note though, that there's a central question that is begging which is "why was this not discovered beforehand?"
+
+If all you have to do is fly close enough to a holographically hidden station to see through it - it requires a fairly substantial suspension of disbelief to justify it not having been discovered before now. Previously, this was addressed with things like the cadmium poisoning, the geodesic geocoris to serve as a lead connecting things, and the involvement of Terry as a plant inside the syndicate to deliberately mis-direct investigations. (Like, this is why she exists.)
+
+This current plan appears to remove all of that which re-begs the central question - so it would be good for you to think of some other thing to answer it if you could.
+
+Otherwise, my only comment is that the Hai government stuff is something a lot of people have really liked, and was really intended to show a bit of how they'd maintained stability despite the deepening cracks in their society so that those social aspects could then be utilised for future Hai/Uhai plots (especially the future possibility of reunification).
+- It might need a few more ways for the player to have less reading if they're not particularly invested, but I'd implore you to keep as much of it as possible for those who are interested, and to support future plots.
+
+As an aside - the approach in here *seems* to be shifting away from having 2 parallel stories (the main political crisis, and the potential crisis arising from the kidnappings) that Sayari is trying to resolve by getting you involved - right up until they inevitable intersect... to now instead having one more singular plot thread.
+- I don't know if you've explicitly thought about that shift or if it's accidental, but I think that has the potential to make the story feel a lot weaker. So, I wanted to point it out as that should be a deliberate decision you make one way or another, not an accidental thing.
+## POST-NOTE: This was the last thing I comment I made after the last thing I heard on it.

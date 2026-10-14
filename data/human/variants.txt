@@ -288,3 +288,30 @@ ship "Splinter" "Splinter (Flamethrower Blaster)"
 		"S-270 Regenerator" 2
 		"Fusion Reactor"
 
+
+#Was later removed in #12709
+# Danforth's personal ship in HR. Outfitted against the Hai and then modified to fight devil hide.
+ship "Cruiser" "Cruiser (Jump Plasma Anti-Missile)"
+	crew 136
+	outfits
+		"Plasma Cannon" 6
+		"Plasma Turret"
+		"Heavy Anti-Missile Turret" 2
+		
+		"Catalytic Ramscoop"
+		"Fuel Pod" 3
+		"Jump Drive"
+		"S-970 Regenerator" 3
+		"Liquid Helium Cooler"
+		"Outfits Expansion" 2
+		
+		"A370 Atomic Thruster"
+		"A525 Atomic Steering"
+		"Volcano Afterburner"
+		
+		"Stack Core"
+		"LP144a Battery Pack"
+		"Supercapacitor" 2
+		"Laser Rifle" 82
+		"Fragmentation Grenades" 60
+

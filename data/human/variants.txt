@@ -72,6 +72,32 @@ ship "Blackbird" "Blackbird (Hai Trafficker)"
 
 
 
+ship "Clipper" "Clipper (Hai Trafficker)"
+	add attributes
+		"mass" 31
+		"outfit space" -25
+		"energy capacity" 2600
+		"shield generation" 1.6
+		"shield energy" 2.4
+		"hull repair rate" 0.2
+		"hull energy" 0.2
+		"hull heat" 0.3
+	outfits
+		"Pulse Rifle" 3
+		Brig
+		"Fuel Pod"
+		"A370 Atomic Thruster"
+		"A255 Atomic Steering"
+		Hyperdrive
+		"Hai Tracker Pod" 3
+		Ramscoop
+		"Outfits Expansion" 3
+		"Liquid Nitrogen Cooler"
+		"Breeder Reactor"
+		"Security Station" 2
+
+
+
 ship "Corvette" "Corvette (Particle Chaser)"
 	outfits
 		"Particle Cannon" 4

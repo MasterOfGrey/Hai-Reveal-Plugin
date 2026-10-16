@@ -1,1 +1,0 @@
-This plugin salvages most of the entire removal in 12092, however some things werent completely removed, this includes some small mission text mentions and such, these can be, althought unstably but certainly recalled under the overwrite function added in 0.11.0, it may be conflicting hence its not on by default, expect government override.txt

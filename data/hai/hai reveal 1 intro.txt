@@ -155,7 +155,7 @@ mission "Hai Reveal Exploration Period: Local Human Merchants Speak Up"
 	on offer
 		conversation
 			branch "last go"
-				"HREP: Local Human Merchants (defer count)" = 2
+				"HREP: Local Human Merchants (defer count)" == 2
 			`While organizing for your ship to be refueled, a distinctly not-Hai conversation that the captain of the ship parked in the next bay is having with one of his crew can be heard.`
 			`	They look like they're almost ready to depart.`
 			choice
@@ -170,7 +170,7 @@ mission "Hai Reveal Exploration Period: Local Human Merchants Speak Up"
 			
 			label "roll the dice"
 			branch "second"
-				"HREP: Local Human Merchants (defer count)" = 2
+				"HREP: Local Human Merchants (defer count)" == 2
 			# First option on first encounter if the dice decide it is so, second encounter goes to second option.
 			`	The captain, who turns out to be an older guy, says to you, "Good day, Captain. You new in these parts?"`
 			choice
